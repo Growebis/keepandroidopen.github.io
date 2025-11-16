@@ -96,7 +96,7 @@ site_copyright: "**版权:** 无。本著作已标记"
 - 电子邮件: [international@accc.gov.au](mailto:international@accc.gov.au?cc=australia@keepandroidopen.org)
 - 向[澳大利亚竞争和消费者委员会  (ACCC)](https://www.accc.gov.au/about-us/contact-us-or-report-an-issue)举报
 - 向澳大利亚消费者协会发送请求 ([CHOICE](https://accounts.choice.com.au/contact-us/))。要求他们向澳大利亚竞争与消费者委员会 (ACCC) 提出一则指定投诉。
-- 联系您当地的国会议员或州参议员。如果你不了解你的选区，你可以在[这里]找到(https://electorate.aec.gov.au/)，且你可以在[这里]查找你的议员或参议员。(https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results).
+- 联系您当地的国会议员或州参议员。如果你不了解你的选区，你可以在[这里]找到(https://electorate.aec.gov.au/)，且你可以在[这里]查找你的议员或参议员。(https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results)
 
 #### 日本
 
